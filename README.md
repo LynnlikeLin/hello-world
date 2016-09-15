@@ -1,3 +1,5 @@
 # hello-world
 Just another repository
-Get some problems when I typing on github
+Just forgot if I had commit readme.
+make another try
+I like myself, haha.
